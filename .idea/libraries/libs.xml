@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/cglib-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/objenesis-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-api-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-core-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mysql-connector-java-8.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/testng-6.14.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-codec-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/easymock-4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
